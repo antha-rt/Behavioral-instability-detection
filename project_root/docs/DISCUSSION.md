@@ -46,7 +46,7 @@ In this project, the dataset of scans covering all behaviors expressed by the gr
 
 **Context:** Fresh hay was provided to the group 10 minutes before the observation window.
 
-![Heatmap_day_1.png](docs/figures/Heatmap_day_1.png)
+![Heatmap_day_1.png](figures/Heatmap_day_1.png)
 
 - Strong positive deviations in feeding-related behaviors.
 - Reduced resting and rumination, reflecting active engagement with a newly available resource.  
@@ -63,7 +63,7 @@ Comparable to a well-provisioned network under normal load: high throughput, low
 
 **Context:** No hay is present in feeders, only silage remnants.
 
-![Heatmap_day_2.png](docs/figures/Heatmap_day_2.png)
+![Heatmap_day_2.png](figures/Heatmap_day_2.png)
 
 - Feeding behaviors are suppressed and temporally fragmented, signaling reduced quantity and quality of available food.  
 - Increased rumination emerges, indicating reprocessing of previously ingested food.  
@@ -82,7 +82,7 @@ Resembles a system under partial service degradation: increased probing, lateral
 
 **Context:** Feeders completely empty.
 
-![Heatmap_day_3.png](docs/figures/Heatmap_day_3.png)
+![Heatmap_day_3.png](figures/Heatmap_day_3.png)
 
 - Suppression of feeding behaviors.  
 - Positive deviations in resting and rumination.  
@@ -117,7 +117,7 @@ Key external events include:
 
 Event sequencing is behavior-driven rather than time-uniform, prioritizing adaptive responses over fixed sampling intervals.
 
-![Heatmap_N2.png](docs/figures/Heatmap_N2.png)
+![Heatmap_N2.png](figures/Heatmap_N2.png)
 
 ### Behavioral Phases and Interpretation
 
@@ -149,7 +149,7 @@ Baseline bands can also be generated per behavioral category, enabling focused a
 
 **Note:** Heatmaps use a visualization limit of 0.40 for global comparison, as exploratory analysis showed most significant behaviors peak near that value (P98). Category-specific plot use limits closer to specific category’s P98.
 
-![Rumination_day_3.png](docs/figures/Rumination_day_3.png)
+![Rumination_day_3.png](figures/Rumination_day_3.png)
 
 ---
 
@@ -211,13 +211,13 @@ Roles are system-specific; individuals may apply pressure in one system while ab
 
 An entity role deviation matrix was constructed to visualize social behavior expression per individual. 
 
-![Entity_role_matrix.png](docs/figures/Entity_role_matrix.png)
+![Entity_role_matrix.png](figures/Entity_role_matrix.png)
 
 ### Interaction flow graphs
 
 Interaction flow graphs were generated, with edge thickness representing weighted intensity and arrowheads indicating directionality. A layered visualization combines all three systems.
 
-![Interactions_layered.png](docs/figures/Interactions_layered.png)
+![Interactions_layered.png](figures/Interactions_layered.png)
 
 Compared to dominance-score graphs:
 - Central individuals are identified beyond conflict winners.  

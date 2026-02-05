@@ -93,6 +93,7 @@ Exploratory scripts and intermediate outputs are intentionally retained for tran
 │   └── N2_individual_observation.csv
 ├── docs/
 │   ├── figures
+│   └── DISCUSSION.md/
 │
 ├── outputs/
 │   ├── anomalies_flags/ 
@@ -113,7 +114,6 @@ Exploratory scripts and intermediate outputs are intentionally retained for tran
 │   ├── 7_entity_role_profiles_graph.py
 │   ├── exploratory_compare_behavior_across_days.py
 │   └── exploratory_vlimits.py
-├── DISCUSSION.md
 └── README.md
 ```
 
