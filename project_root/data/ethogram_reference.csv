@@ -1,0 +1,91 @@
+Behavior,Category,Description
+Caminar,Locomoción,Desplazarse de un punto a otro utilizando los 4 miembros
+Subir a echadero,Locomoción,"Subir primero uno de los miembros anteriores, luego el otro; seguido de los posteriores de forma alterna"
+Bajar de echadero 1,Locomoción,"De frente, bajar uno de los miembros anteriores, luego el otro; seguido de los posteriores de forma alterna"
+Bajar de echadero 2,Locomoción,"De reversa, bajar uno de los miembros posteriores, luego el otro; seguido de los anteriores y girando su dirección"
+Bajar de echadero 3,Locomoción,Bajar miembros posteriores del echadero y quedarse en estación 2
+Alejarse de bebedero,Locomoción,"Caminar de reversa, en direccion contraria al bebedero"
+Alejarse de comedero,Locomoción,"Caminar de reversa, en direccion contraria al comedero"
+Acercarse a bebedero,Locomoción,Caminar hacia bebedero
+Acercarse a comedero,Locomoción,Caminar hacia comedero
+Sacudir cabeza,Respuesta a coerción,Mover enérgicamente la cabeza de un lado a otro causando que las orejas golpeen repetidamente las sienes
+Cambiar de comedero,Locomoción,Desplazarse de un área del comedero a otra sacando la cabeza del barandal e introducirla entre dos barrotes diferentes
+Patada atrás ,Autorregulación,Levantar uno de los miembros posteriores hacia delante  por debajo del abdomen de forma rápida y regresarlo a su lugar
+Golpe de pezuña,Autorregulación,"Levantar algún miembro de forma rápida, separando dicho miebro del suelo unos 40 cm, y volverlo a apoyar inmediatamente"
+Resistencia 1,Respuesta a coerción,"Eje corporal hacia atrás, trata de retroceder"
+Resistencia 2,Respuesta a coerción,"Eje corporal hacia atrás, movimiento de cabeza de un lado a otro"
+Ñam,Autorregulación,(Observado en becerros) Abrir y cerrar la boca una o dos veces haciendo un ruido característico como si se saboreara algo pero sin presencia de alimento o bebida
+Cola 1,Locomoción cola,Movimiento suave de la cola en patrón de péndulo (de lado a lado sin flexionarse)
+Cola 2,Locomoción cola,Movimiento intenso que lleva la punta de la cola hasta el sacro enroscándola ligeramente
+Cola 3,Locomoción cola,Movimiento intenso que lleva la punta de la cola hasta el costado
+Cola 4,Locomoción cola,Cola tensa curveada hacia abdomen con la punta entre los miembros posteriores
+Reflejo cutaneo,Autorregulación,"Temblor involuntario de la piel con el fin de ahuyentar una molestia (moscas, particulas de heno, etc.)"
+Orejas 1,Locomoción orejas,Movimiento breve de las orejas hacia delante o hacia atras (1-2 movimientos)
+Orejas 2,Locomoción orejas,Movimiento continuo de las orejas hacia adelante y hacia atrás (4-6 veces aprox.)
+Orejas 3,Locomoción orejas,Flexionar orejas hacia atrás pegándolas al cráneo 
+Forma de echarse 1,Descanso,"Flexionar miembros anteriores haciendo contacto con el suelo la articulación del carpo, apoyar la mayoría del peso levando el eje corporal hacia delante y dejar caer lentamente el tren posterior verticalmente"
+Forma de echarse 2,Descanso,"Flexionar miembros anteriores haciendo contacto con el suelo la articulacion del carpo, apoyar la mayoría del peso y dejar caer lentamente el tren posterior girando ligeramente la cadera hacia un lado"
+Echada 1,Descanso,"Recostarse en el suelo con los miembros anteriores flexionados, los posteriores ligeramente girados hacia un lado y flexionados y la cabeza erguida"
+Echada 2,Descanso,"Recostarse en el suelo con los miebros anteriores flexionados, los posteriores ligeramente girados hacia un lado y flexionados y la cabeza apoyada en los miembros anteriores"
+Echada 3,Descanso,"Recostarse en el suelo con los miebros anteriores flexionados, los posteriores ligeramente girados hacia un lado y estirados y la cabeza erguida"
+Echada 4,Descanso,"Recostarse en el suelo con los miembros anteriores flexionados, los posteriores ligeramente girados hacia un lado y flexionados y la cabeza recargada en un objeto, superficie o individuo "
+Estación 1,Descanso, Parado sobre los cuatro miembros apoyados en el suelo
+Estación 2,Descanso,Parado con los dos miembros anteriores sobre la plataforma y los dos miebros posteriores apoyados en el suelo
+Estación 3,Descanso,"Parado sobre los cuatro miembros apoyados en el suelo mientras se recarga la mandibula en una superficie (barda, echadero, otra vaca)"
+Cerrar ojos,Descanso,Dejar que los párpados cubran los ojos sin estar dormido
+Levantarse ,Descanso,"Apoyarse en la articulacion del carpo de ambos miembros anteriores, extender en su totalidad los miebros del tren posterior, y por ultimo extender miembros anteriores. "
+Orinar 1,Eliminación,"Espalda encorvada ligeramente, cola tensa en forma de arco, expulsión de orina en cantidad abundante (aprox. 4 segundos)"
+Orinar 2,Eliminación,"Espalda encorvada ligeramente, cola tensa enroscada hacia arriba y apoyada en el sacro, expulsión de orina en cantidad abundante (aprox. 4 segundos)"
+Defecar 1,Eliminación,"En estación, 3 miembros apoyados sobre la plataforma y uno (MPI) sobre el suelo, expulsa heces, con la cola tensa en arco"
+Defecar 2,Eliminación,"En estación, 4 miembros apoyados sobre el suelo, expulsa heces, con la cola tensa en arco"
+Defecar 3,Eliminación,"Caminando expulsa heces, con la cola tensa en arco"
+Corporal 1,Cuidado corporal,Girar cabeza hacia uno de sus costados y lamerse de forma rápida 1 o 2 veces en el área escapular o arco costal. 
+Corporal 2,Cuidado corporal,Girar cabeza hacia área lumbar y lamerse la piel de forma repetida (aprox. 4 segundos) al mismo tiempo que la cola se enrosca para cepillar la misma área
+Corporal 3,Cuidado corporal,Acercar cabeza a m. anteriores y lamerse metacarpos
+Costado ,Cuidado corporal,Tocar con el hocico de forma rápida uno de sus costados 
+Con el medio 1,Cuidado corporal,Frotar hocico contra barrotes metálicos del echadero
+Con el medio 2,Cuidado corporal,Frotar la mandibula de lado a lado contra una superficie 
+Con el medio 3,Cuidado corporal,Frotar cabeza en barrotes metálicos del entrape del comedero (en el área de la sien)
+Limpiarse nariz,Cuidado corporal,"Extender lengua e introducir lengua a narinas, luego reresarla a su lugar"
+Empujar heno,Comer,Hundir cabeza en comedero y con la nariz palear (movimientos de abajo a arriba) moviendo el heno para desplazarlo
+Tomar alimento ,Comer,"Inclinarse sobre comedero y usa su lengua para agarrar una porción de heno, luego endereza la cabeza manteniendo el heno en la boca"
+Masticar 1,Comer,Con los molares y con movimientos mandibulares de lado a lado triturar el alimento en partículas mas pequeñas con el cuello erguido
+Masticar 2,Comer,Con los molares y con movimientos mandibulares de lado a lado triturar el alimento en partículas mas pequeñas con la cabeza dentro del comedero
+Rumiar,Rumiación,En posición de estación o echada se observa movimiento de masticación 
+Eructar,Comer,Expulsar por la boca gases del estómago generalmente durante la rumia o alimentación 
+Bebida,Beber,"Acercar cabeza a bebedero, extender lengua para hacer contacto con agua y lamer provocando movimiento en la superficie. Luego acercar labios y sumergirlos succionando agua"
+Lamer aire,Otras generales,Extender el cuello llevando la cabeza ligeramente hacia arriba y extender y retraer la lengua repetidamente hacia el aire
+Estornudar,Otras generales,Expulsar de forma violenta y ruidosa por nariz y boca el aire de los pulmones
+Toser,Otras generales,"Expulsar de forma brusca, violenta y ruidosa a traves de la boca el aire de los pulmones"
+Resoplar,Autorregulación,Expulsar de forma brusca a traves de la nariz el aire contenido en los pulmones
+Lamer contenedor,Otras generales,Pasar la lengua de manera intensa y lenta en las paredes del contenedor
+Palatear lengua,Otras generales,Limpiarse cavidad oral mediante multiples movimientos de la lengua
+Amenaza 1,Agonista,Estirar cuello hacia abajo y levantar bruscamente la cabeza en dirección a otra vaca sin llegar a hacer contacto físico 
+Amenaza 2,Agonista,"Con postura rígida y erguida y haciendo contacto visual con otra vaca, aproximarse pisando fuerte en ocasiones haciendo contacto corporal"
+Amenaza 3,Agonista,Lanzar alimento mediante un resoplido hacia el individuo de al lado
+Amenaza 4,Agonista,Lanzar agua mediante un resoplido hacia un individuo determinado
+Amenaza 5,Agonista,Lanzar el aire contenido en los pulmones hacia otro individuo fijando la mirada y produciendo un sonido grave y corto
+Sumisión,Apaciguamiento,"Estación, columna ligeramente arqueada,  cuello extendido hacia abajo, orejas ligeramente hacia atrás, mirada fija en un objeto o individuo"
+Evasión,Apaciguamiento,"Cabeza baja desviando la mirada de otro individuo, movilización para alejarse de la situación"
+Agresión 1,Agonista,"Estirar cuello hacia abajo, aproximarse y dar impulso a un golpe con la cabeza hacia otra vaca "
+Agresión 2,Agonista,"Estirar cuello hacia abajo, aproximarse y dar impulso a un golpe con la punta del cuerno hacia otra vaca"
+Aloacicalamiento 1,Afiliativa,"Lamer repetidas veces alguna parte del cuerpo de otra vaca y continuar con un area diferente (ejemplo: lamer mandibula, frente, mejilla y cuello)"
+Aloacicalamiento 2,Afiliativa,Lamer una o dos veces alguna parte del cuerpo de otra vaca (ejemplo: lamer la oreja)
+Tope 1,Afiliativa,Hacer contacto con la frente suave pero brevemente con otro individuo 
+Tope 2,Afiliativa,Hacer contacto con el hocico suave pero brevemente con otro individuo
+Tocar nariz ,Afiliativa,Dos vacas hacen cotacto entre ellas juntando sus narices brevemente
+Frotar individuo,Afiliativa,Frotar mandíbula de lado a lado contra el cuerpo de otro individuo
+Círculo,Afiliativa,Caminar en círculo detras de otra vaca haciendo contacto visual entre ambas
+Aproximarse a individuo,Afiliativa,Caminar hacia otro individuo con postura relajada
+Observar ambiente,Exploración,Levantar cabeza en posición erguida y fijar mirada hacia un elemento ubicado fuera del corral siguiendo su desarrollo
+Observar ambiente 2,Exploración,Girar el cuello para llevar la cabeza a los costados hacia un lado y luego hacia el otro tratando de observar algo lejano hacia atrás del tren posterior
+Olfatear ambiente,Exploración,Levantar cabeza estirando el cuello hacia arriba y aspirar aire haciendo movimientos ligeros de las narinas
+Olfatear suelo,Exploración,Bajar la cabeza hasta casi hacer contacto la nariz con el suelo y aspirar aire haciendo movimientos ligeros de las narinas
+Flehmen,Exploración,"Dirigir la cabeza hacia arriba, seprar ligeramente los labios, dilatar narinas y absorber aire del ambiente a través de boca y nariz. "
+Tocar objeto con labios,Exploración,"Aproximarse a un objeto (barrotes metálicos, comedero, elementos nuevos en el corral) y tocarlos suavemente con los labios fijando la mirada en él"
+Observar individuo,Exploración,Levantar cabeza en posición erguida y fijar mirada hacia un elemento ubicado fuera del corral siguiendo sus movimientos
+Escuchar ambiente,Exploración,En estación o descanso dirigir una o ambas orejas hacia el origen de un sonido sin voltear la cabeza ni fijar mirada
+Mugido 1,Vocalización,"Vocalización de corta duración (1 seg) y de bajo volumen, ligeramente grave sin variar el tono y sin movimiento específico de la cabeza"
+Mugido 2,Vocalización,Vocalización que inicia con sonido grave y se hace más agudo y fuerte en volumen a la par que la vaca eleva la boca hacia el aire
+Mugido 3,Vocalización,"Sonido grave, brusco y gutural que se emite fijando la mirada en otro individuo"
+Mugido 4,Vocalización,Vocalización larga (aproximadamente 4 segundos) sin variar tono ni volumen

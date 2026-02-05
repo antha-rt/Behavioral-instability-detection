@@ -1,0 +1,201 @@
+Day,Scan,Behavior,Count
+1,1,Cambiar de comedero,4
+1,1,Masticar 1,1
+1,1,Masticar 2,3
+1,2,Masticar 1,2
+1,2,Masticar 2,5
+1,2,Aloacicalamiento 2,1
+1,3,Cambiar de comedero,2
+1,3,Masticar 1,1
+1,3,Masticar 2,5
+1,4,Estación 1,1
+1,4,Tomar alimento ,1
+1,4,Masticar 1,4
+1,4,Masticar 2,2
+1,5,Corporal 1,1
+1,5,Estación 1,1
+1,5,Masticar 1,2
+1,5,Masticar 2,4
+1,6,Cambiar de comedero,1
+1,6,Masticar 1,1
+1,6,Masticar 2,3
+1,6,Bebida,3
+1,7,Masticar 1,4
+1,7,Masticar 2,4
+1,7,Observar ambiente,4
+1,8,Masticar 1,6
+1,8,Masticar 2,2
+1,8,Observar ambiente,5
+1,9,Cambiar de comedero,2
+1,9,Masticar 1,5
+1,9,Masticar 2,1
+1,9,Observar ambiente,6
+1,10,Cambiar de comedero,2
+1,10,Cola 1,2
+1,10,Estación 1,3
+1,10,Masticar 1,3
+1,10,Observar ambiente,4
+1,11,Cola 1,2
+1,11,Estación 1,1
+1,11,Tomar alimento ,1
+1,11,Masticar 2,6
+1,11,Observar ambiente,3
+1,12,Cola 1,3
+1,12,Estación 1,2
+1,12,Masticar 2,2
+1,12,Rumiar,1
+1,12,Bebida,3
+1,12,Observar ambiente,2
+2,1,Acercarse a comedero,1
+2,1,Echada 1,2
+2,1,Estación 1,5
+2,1,Con el medio 2,1
+2,1,Masticar 2,1
+2,1,Rumiar,3
+2,2,Echada 1,3
+2,2,Estación 1,6
+2,2,Cola 1,1
+2,2,Cola 3,6
+2,2,Masticar 1,1
+2,2,Rumiar,2
+2,3,Echada 1,2
+2,3,Estación 1,6
+2,3,Cola 1,1
+2,3,Cola 3,1
+2,3,Masticar 2,1
+2,3,Rumiar,3
+2,3,Bebida,2
+2,3,Observar ambiente,2
+2,4,Echada 1,1
+2,4,Echada 2,1
+2,4,Estación 1,5
+2,4,Cola 1,2
+2,4,Masticar 2,2
+2,4,Rumiar,3
+2,5,Echada 1,2
+2,5,Estación 1,4
+2,5,Cola 1,2
+2,5,Cola 2,2
+2,5,Cola 4,2
+2,5,Masticar 1,1
+2,5,Rumiar ,4
+2,5,Aloacicalamiento 1,1
+2,6,Echada 1,2
+2,6,Estación 1,5
+2,6,Cola 1,3
+2,6,Masticar 2,1
+2,6,Rumiar,3
+2,6,Aloacicalamiento 1,1
+2,6,Observar ambiente ,1
+2,7,Echada 1,2
+2,7,Estación 1,5
+2,7,Estación 2,1
+2,7,Cola 1,1
+2,7,Cola 3,2
+2,7,Rumiar,4
+2,7,Evasión,1
+2,7,Observar ambiente,1
+2,8,Echada 1,1
+2,8,Estación 1,5
+2,8,Cola 1,1
+2,8,Cola 3,4
+2,8,Corporal 1,1
+2,8,Masticar 2,1
+2,8,Rumiar,4
+2,8,Tocar objeto con labios,2
+2,9,Acercarse a comedero,1
+2,9,Echada 1,1
+2,9,Estación 1,6
+2,9,Estación 2,1
+2,9,Cola 1,2
+2,9,Cola 3,3
+2,9,Masticar 2,3
+2,9,Rumiar,1
+2,10,Echada 1,1
+2,10,Echada 2,5
+2,10,Estación 1,2
+2,10,Cola 1,2
+2,10,Cola 3,1
+2,10,Rumiar,1
+2,10,Aloacicalamiento 1,2
+2,11,Echada 1,1
+2,11,Estación 1,5
+2,11,Estación 2,1
+2,11,Cola 3,3
+2,11,Cola 4,1
+2,11,Rumiar,1
+2,11,Aloacicalamiento 1,1
+2,11,Tocar objeto con labios,1
+2,12,Caminar,2
+2,12,Echada 1,1
+2,12,Estación 1,5
+2,12,Cerrar ojos,1
+2,12,Cola 1,1
+2,12,Cola 3,7
+3,1,Echada 1,4
+3,1,Estación 1,3
+3,1,Cola 3,1
+3,1,Con el medio 3,1
+3,1,Rumiar,1
+3,1,Aloacicalamiento 1,1
+3,2,Echada 1,4
+3,2,Echada 2,1
+3,2,Estación 2,2
+3,2,Cerrar ojos,1
+3,2,Cola 1,1
+3,2,Rumiar,1
+3,3,Echada 1,5
+3,3,Estación 1,2
+3,3,Cola 3,2
+3,3,Rumiar,5
+3,3,Golpe de pezuña,2
+3,4,Echada 2,4
+3,4,Estación 1,3
+3,4,Rumiar,6
+3,4,Aloacicalamiento 1,1
+3,4,Observar ambiente,1
+3,5,Echada 1,4
+3,5,Forma de echarse 1,1
+3,5,Estación 1,3
+3,5,Cola 1,1
+3,5,Rumiar,5
+3,6,Echada 1,5
+3,6,Forma de echarse 1,2
+3,6,Rumiar,6
+3,6,Olfatear ambiente,1
+3,7,Echada 2,5
+3,7,Estación 1,2
+3,7,Cola 1,1
+3,7,Con el medio 3,5
+3,7,Rumiar,1
+3,8,Echada 1,5
+3,8,Cola 1,2
+3,8,Cola 3,1
+3,8,Rumiar,5
+3,8,Observar ambiente,1
+3,9,Caminar,1
+3,9,Echada 1,4
+3,9,Forma de echarse 1,2
+3,9,Rumiar,2
+3,9,Golpe de pezuña,1
+3,10,Cambiar de comedero ,1
+3,10,Caminar,1
+3,10,Echada 1,4
+3,10,Estación 1,1
+3,10,Cola 2,1
+3,10,Rumiar,3
+3,11,Echada,1
+3,11,Estación 1,4
+3,11,Estación 2,1
+3,11,Orejas 1,1
+3,11,Cola 1,2
+3,11,Cola 2,2
+3,11,Evasión,2
+3,11,Amenaza 1,2
+3,12,Caminar,2
+3,12,Estación 1,4
+3,12,Cola 1,6
+3,12,Limpiar nariz ,1
+3,12,Corporal 1,1
+3,12,Rumiar,1
+3,12,Observar ambiente,2

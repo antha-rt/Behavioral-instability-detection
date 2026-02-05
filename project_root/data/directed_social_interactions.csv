@@ -1,0 +1,31 @@
+Day,Behavior,Category,Count,Actor,Target
+1,Agresión 1,Agonista,24,N2,N5
+1,Agresión 2,Agonista,9,N2,N5
+1,Agresión 1,Agonista,1,N2,N7
+1,Agresión 1,Agonista,2,N1,N3
+1,Agresión 2,Agonista,1,N1,N7
+1,Agresión 1,Agonista,1,N3,N4
+2,Amenaza 2,Agonista,1,N2,N5
+2,Evasión,Apaciguamiento,1,N5,N2
+2,Agresión 1,Agonista,1,N4,N6
+2,Agresión 1,Agonista,1,N3,N5
+2,Agresión 2,Agonista,1,N2,N5
+2,Aloacicalamiento 1,Afiliativa,1,N3,N4
+2,Tope 2,Afiliativa,1,N3,N1
+2,Tope 2,Afiliativa,1,N4,N1
+2,Tocar nariz con nariz,Afiliativa,1,N3,N4
+3,Amenaza 1,Agonista,2,N3,N6
+3,Amenaza 1,Agonista,1,N1,N6
+3,Amenaza 2,Agonista,1,N4,N6
+3,Amenaza 2,Agonista,1,N1,N4
+3,Amenaza 2,Agonista,1,N1,N6
+3,Evasión,Apaciguamiento,1,N4,N1
+3,Evasión,Apaciguamiento,1,N6,N1
+3,Evasión,Apaciguamiento,1,N7,N4
+3,Agresión 1,Agonista,1,N1,N3
+3,Agresión 1,Agonista,4,N1,N6
+3,Agresión 1,Agonista,1,N1,N4
+3,Agresión 2,Agonista,1,N3,N6
+3,Aloacicalamiento 1,Afiliativa,2,N4,N6
+3,Aloacicalamiento 2,Afiliativa,1,N4,N1
+3,Tope 1,Afiliativa,1,N4,N6

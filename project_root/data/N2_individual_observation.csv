@@ -1,0 +1,107 @@
+Event,Behavior,Count
+1,Masticar 2,1
+1,Cola 1,1
+1,Cambiar de comedero,1
+2,Corporal 1,1
+2,Agresión 2,1
+2,Subir a echadero,1
+2,Estación 1,1
+2,Observar individuo,1
+3,Cola 2,1
+3,Golpe de pezuña,1
+3,Observar ambiente,1
+4,Sumisión,1
+4,Sacudir cabeza,1
+4,Bajar de echadero 1,1
+4,Caminar,1
+4,Correr,1
+4,Cola 3,1
+5,Cola 3,1
+5,Sacudir cabeza,1
+5,Orejas 3,1
+6,Resistencia 1,1
+6,Golpe de pezuña,1
+6,Resoplar,1
+7,Resistencia 2,1
+7,Golpe de pezuña,1
+7,Resoplar,1
+7,Reflejo cutáneo,1
+8,Resistencia 1,1
+8,Golpe de pezuña,1
+8,Reflejo cutáneo,1
+9,Golpe de pezuña,1
+9,Reflejo cutáneo,1
+9,Resoplar,1
+10,Patada atrás,4
+10,Reflejo cutáneo,1
+10,Resoplar,1
+11,Resistencia 1,1
+11,Cola 3,1
+11,Patada atrás,1
+12,Caminar,1
+12,Subir a echadero,1
+12,Sumisión,1
+13,Observar ambiente 2,1
+13,Cola 3,1
+13,Golpe de pezuña,1
+14,Sacudir cabeza,1
+14,Cola 3,1
+14,Agresión 2,1
+15,Agresión 2,1
+15,Cola 3,1
+15,Bajar de echadero 1,1
+15,Acercarse a comedero,1
+16,Caminar,1
+16,Cola 3,1
+16,Observar ambiente 1,1
+16,Observar ambiente 2,1
+16,Orejas 1,1
+16,Golpe de pezuña,1
+17,Caminar,1
+17,Olfatear ambiente,1
+17,Masticar 2,1
+18,Amenaza 1,1
+18,Corporal 2,1
+18,Subir a echadero,1
+18,Agresión 2,1
+19,Cola 3,1
+19,Golpe de pezuña,6
+19,Cola 2,2
+20,Escuchar ambiente,1
+21,Bajar de echadero 3,1
+21,Observar ambiente,1
+21,Reflejo cutáneo,1
+21,Estación 2,1
+21,Cola 1,1
+21,Costado,3
+21,Corporal 1,1
+22,Corporal 1,1
+22,Bajarse de echadero 2,1
+22,Orejas 1,1
+22,Acercarse a comedero,1
+22,Masticar 2,1
+23,Orejas 1,1
+23,Cola 2,1
+23,Patada atrás,1
+23,Masticar 2,1
+23,Costado ,1
+23,Resoplar,1
+24,Masticar 2,1
+24,Cola 2,1
+24,Golpe de pezuña,1
+24,Orejas 1,1
+24,Reflejo cutáneo,1
+25,Amenaza 1,1
+25,Amenaza 2,1
+25,Subir a echadero,1
+25,Estación 1,1
+25,Golpe de pezuña,1
+26,Estación 1,1
+26,Golpe de pezuña,1
+26,Rumiar,1
+26,Cola 3,1
+27,Tocar nariz,1
+27,Rumiar,1
+27,Costado,2
+28,Estación 1,1
+28,Rumiar,1
