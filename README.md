@@ -80,9 +80,7 @@ Each output highlights different aspects of system behavior and complements the 
 
 ## Repository Structure
 
-The repository is organized into `data`, `scripts`, and `outputs` directories. Scripts are modular and reflect analytical stages rather than a single linear pipeline. 
-
-Exploratory scripts and intermediate outputs are intentionally retained for transparency and may retain original labels.
+The repository is organized into `data`, `docs`, `scripts`, and `outputs` directories. Scripts are modular and reflect analytical stages rather than a single linear pipeline.
 
 ```text
 
@@ -116,6 +114,7 @@ Exploratory scripts and intermediate outputs are intentionally retained for tran
 │   └── exploratory_vlimits.py
 └── README.md
 ```
+Exploratory scripts and intermediate outputs are intentionally retained for transparency and may retain original labels.
 
 ---
 

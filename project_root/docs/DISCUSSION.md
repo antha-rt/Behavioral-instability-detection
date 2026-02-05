@@ -32,7 +32,7 @@ In cybersecurity, behaviors that deviate from the norm are constantly sought and
 
 Normal traffic patterns define what is expected; deviations indicate anomalies; and context determines severity.
 
-This approach is closely aligned with **User and Entity Behavior Analytics (UEBA)** in cybersecurity, where behavioral baselines are constructed for users or entities, and deviations are treated as investigation cues rather than verdicts. In UEBA, anomalous behavior does not imply compromise by default; it signals a departure from expected patterns that must be interpreted in context.
+This approach is closely aligned with **User Behavior Analytics (UBA)** in cybersecurity, where behavioral baselines are constructed for users, and deviations are treated as investigation cues rather than verdicts. In UBA, anomalous behavior does not imply malign or benign intent; it signals a departure from expected patterns that must be interpreted in context.
 
 Similarly, individuals within a social group can be treated as entities whose behavioral signatures fluctuate over time. Deviations from baseline may reflect stress, environmental change, or adaptive strategies.
 
@@ -159,7 +159,7 @@ Alongside heatmaps, a lightweight anomaly-flagging layer highlights scans that d
 
 Flags are generated per behavioral category using empirical thresholds. Extreme deviations are marked as outliers and assigned LOW, MEDIUM, or HIGH severity, reflecting rarity within that channel, not importance or harm.
 
-Flagged scans are reviewed through a severity-ordered alert list, supporting human-in-the-loop exploration. This mirrors UEBA-driven monitoring systems, where alerts act as starting points for investigation rather than final conclusions.
+Flagged scans are reviewed through a severity-ordered alert list, supporting human-in-the-loop exploration. This mirrors behavior analytics monitoring systems, where alerts act as starting points for investigation rather than final conclusions.
 
 ---
 
