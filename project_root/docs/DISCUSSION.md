@@ -38,6 +38,8 @@ Similarly, individuals within a social group can be treated as entities whose be
 
 In this project, the dataset of scans covering all behaviors expressed by the group during observation days across different contexts was used to construct a general baseline for this specific social group during that time period. This allowed deviations to be examined at both group and individual levels, contextualized and visualized using heatmaps.
 
+The term baseline is used to denote a context-bounded reference distribution derived from the available observation window, rather than a long-term or context-invariant behavioral norm. Given the limited temporal scope and the presence of distinct environmental conditions across observation days, baselines are interpreted as local expectations for this specific group during the study period.
+
 ---
 
 ## Behavioral Deviation Heatmaps — Group-Level Interpretation
