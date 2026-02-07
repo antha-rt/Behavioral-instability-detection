@@ -135,7 +135,7 @@ A detailed conceptual framework, interpretive discussion, and domain-transfer an
 
 ## Limitations
 
-- Observational data reflect a specific context and population  
+- Observational data reflect a specific context, observation window and population  
 - Behavioral coding is manual and observer-dependent  
 - N2 individual observation are event-driven rather than time-uniform  
 - Human intervention introduces non-natural stressors
