@@ -25,7 +25,6 @@ CATEGORY_WEIGHTS = {
     k: 1 / v for k, v in CATEGORY_PROPORTIONS.items()
 }
 
-# 👑 Explicit population registry (N8 lives)
 ALL_INDIVIDUALS = ["N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8"]
 
 # ------------------------------------------------------------
